@@ -20,7 +20,7 @@ variable "available_zone"{
 
 variable "site_name" {
     type                  = string
-    default               = "hcpsite1" # will be used as tag name
+    default               = "testserver" # will be used as tag name
 }
 
 variable "keypairs" { 
