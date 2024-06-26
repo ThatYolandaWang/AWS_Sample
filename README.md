@@ -1,4 +1,4 @@
-# Guidance of creating ec2 for HCP remote servers.
+# Guidance of creating ec2.
 
 ## Install terraform plugin, unzip and add to the path environment
 https://developer.hashicorp.com/terraform/install
